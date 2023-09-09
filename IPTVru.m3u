@@ -48,6 +48,13 @@ https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Общественные",Совершенно Секретно
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Магазины",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Магазины",Ювелирочка ТВ
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Магазины",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2011.png" group-title="Детские",Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/410.png" group-title="Детские",Da Vinci

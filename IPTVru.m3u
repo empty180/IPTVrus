@@ -66,6 +66,8 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Магазины",Leomax 24
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvch-id="SHOP&SHOW" tvg-logo="https://i.imgur.com/BDjG0hy.png" group-title="Магазины",SHOP&SHOW
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695081550/ei/7Y8IZenbOISt0u8PvvaCqAo/ip/88.85.207.156/id/-TK6wYPvPJQ.2/source/yt_live_broadcast/requiressl/yes/tx/51012155/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxtgEzfCMkYC_XKFBdCUbBMvy908SdO3m4on0bMXBH0vG0at_wQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJA7EAtUIP_kc2lqZz2js3MoP1lW3DsPF7DPPXLay6nBAiEA3VxplaHIYeR5TJ_2yLegV0Rsc8Ux-Jap6Wnw85jUKmo%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2011.png" group-title="Детские",Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
@@ -133,7 +135,7 @@ http://86.57.178.105:10822
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Развлекательные", СТС +2
 http://213.59.128.165:8888/play/STS/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Развлекательные",СТС
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Развлекательные",СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8

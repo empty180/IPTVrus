@@ -42,7 +42,7 @@ http://213.59.128.165:8888/play/Domashnij/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-https://stream01.vnet.am/DomKino/mono.m3u8
+https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
@@ -88,7 +88,7 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Магазины",Leomax 24
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvch-id="SHOP&SHOW" tvg-logo="https://i.imgur.com/BDjG0hy.png" group-title="Магазины",SHOP&SHOW
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695081550/ei/7Y8IZenbOISt0u8PvvaCqAo/ip/88.85.207.156/id/-TK6wYPvPJQ.2/source/yt_live_broadcast/requiressl/yes/tx/51012155/txs/51012155%2C51012156%2C51012157/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxtgEzfCMkYC_XKFBdCUbBMvy908SdO3m4on0bMXBH0vG0at_wQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJA7EAtUIP_kc2lqZz2js3MoP1lW3DsPF7DPPXLay6nBAiEA3VxplaHIYeR5TJ_2yLegV0Rsc8Ux-Jap6Wnw85jUKmo%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695483260/ei/HLEOZYe-Au-uv_IP8KKEwA4/ip/5.2.39.214/id/-TK6wYPvPJQ.2/source/yt_live_broadcast/requiressl/yes/tx/24379857/txs/24379852%2C24379853%2C24379854%2C24379855%2C24379856%2C24379857%2C24379858/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f12G4M0vyrMVFjJTcOkKeeWveHbiVJbslU6OoQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKhPFVISjGftAP7N04s_n1TkeCg3J6NhZo-un5K8srK9AiB-BCjDgueafNooqhiNUsBncw5C1KgzR5jXWM0eP1eQ5w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2011.png" group-title="Детские",Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8

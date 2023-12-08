@@ -45,6 +45,8 @@ https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
 http://dmitry-tv.ddns.net/hls/CH_MOSFILM.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
+http://dmitry-tv.ddns.net/hls/CH_MOSFILMHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2476.png" group-title="Общественные",Красная линия
@@ -311,6 +313,8 @@ http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5600.png" group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3060.png" group-title="Познавательные", National Geographic
+http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательные",Viju History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательные",Viju Nature HD
@@ -322,7 +326,7 @@ http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательные",RTG HD
 http://45.144.31.195:8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Познавательные",Арсенал
-http://er-cdn.ertelecom.ru/os/video/hls/1a5cacd0d33363f08128be2917d14b1be7da0e20c9dd40128d2b218dc4987139232ba30d6f0e6db5ea2a6a743b9829ec23f557867bf14e32def42e56b31164eea4176693c4ffc40e0dd41c1c7ac3b422249ee008d5210e0898d8de2d9d5679888e8d007a26c1ff5e53bc601c836b5aff9b2947620c586537c062deede6a0e4340f4fc7c02d40d9ed43fb64398ed201439aed7b28dbf53c01d9fb305082c76c3d2a21afc8f10dbb4304813feca2c1492c8565616c0a56e437cd66b931e4d4ee1c087db954d4167ce503b7f942adcf896f3e94704c9f4f6b46c3e131ff20e543871ab8c2e903d46e88c8ec5a93f5cba76d8628a8b0ab3d2132ab1b88f9f86782ea8caa206ac202233c7e893a9613c53275591928aae7c77c96f70eebbb0ed2fd00cb35db7ce5c29020bfc13be9af5c5942e9f28df954a45c5bf3f59c6e9ea90da7510c5af81599cdffaebf702636df3fab/playlist.m3u8
+http://91.221.201.2:7013/play/a009/index.m3u8
 #EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://24htv.platform24.tv/v2/channels/273/stream?access_token=bac04db639cb05fcddb79604cc9905a47a56be74&type=http&ts=${start}" group-title="Познавательные", История
 http://95.217.196.109:8081/russia/istoriya/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6031.png" group-title="Познавательные",Министерство идей

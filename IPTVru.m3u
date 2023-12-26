@@ -242,8 +242,6 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 http://92.248.229.248:81/udp/225.0.56.4:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7315.png" group-title="Кинозал",Сапфир HD
 http://92.248.229.248:81/udp/225.0.56.6:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Кинозал",Фантастика HD
-http://hlss.goodgame.ru/hls/187241.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кинозал (русские)",Viju TV1000 Русское кино HD

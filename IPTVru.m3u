@@ -9,8 +9,6 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
 http://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 group-title="Общественные",Матч! HD
-http://bl.uma.media/live/126836/HLS/4614144_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
@@ -72,6 +70,10 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Общественные",Муз ТВ
 http://livetv.mylifeisgood.net.ru/channels/muztv.m3u8
+#EXTINF:-1 group-title="Общественные",Матч ТВ +2
+http://92.248.229.248:81/udp/225.0.59.3:1234
+#EXTINF:-1 group-title="Общественные",Матч! HD
+http://bl.uma.media/live/126836/HLS/4614144_4/2/1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Магазины",Shopping Live
@@ -136,7 +138,7 @@ http://92.248.229.248:81/udp/225.0.56.68:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2497.png" group-title="Спортивные",Russian Extreme HD
 http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2285.png" group-title="Спортивные",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
+http://92.248.229.248:81/udp/225.0.55.50:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Спортивные",СТАРТ HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! СТРАНА
@@ -145,15 +147,25 @@ http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2043.png" group-title="Спортивные",Матч! ПЛАНЕТА
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Боец HD
+http://92.248.229.248:81/udp/225.0.56.53:1234
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+http://92.248.229.248:81/udp/225.0.56.60:1234
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+http://92.248.229.248:81/udp/225.0.56.61:1234
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
+http://92.248.229.248:81/udp/225.0.56.62:1234
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
+http://92.248.229.248:81/udp/225.0.56.94:1234
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Кинозал",312 Кино KG
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
 http://92.248.229.248:81/udp/225.0.56.7:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black
-https://stream01.vnet.am/Kinosemya/mono.m3u8
+http://92.248.229.248:81/udp/225.0.55.151:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
-http://moobl.ru/hls/SciFi.m3u8
+http://92.248.229.248:81/udp/225.0.55.73:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1 HD
 http://92.248.229.248:81/udp/225.0.56.9:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Кинозал",Amedia 2 HD
@@ -161,7 +173,7 @@ http://92.248.229.248:81/udp/225.0.55.38:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Кинозал",Amedia Hit HD
 http://92.248.229.248:81/udp/225.0.56.65:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Кинозал",Amedia Premium HD
-http://moobl.ru/hls/Amedia_Premium_hd.m3u8
+http://92.248.229.248:81/udp/225.0.56.10:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="Кинозал",BackusTV Original
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Кинозал",BackusTV Dark
@@ -238,7 +250,7 @@ http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кинозал", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кинозал" Кино ТВ HD
+#EXTINF:-1 group-title="Кинозал", Кино ТВ HD
 http://92.248.229.248:81/udp/225.0.56.4:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7315.png" group-title="Кинозал",Сапфир HD
 http://92.248.229.248:81/udp/225.0.56.6:1234
@@ -247,7 +259,7 @@ http://92.248.229.248:81/udp/225.0.56.6:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кинозал (русские)",Viju TV1000 Русское кино HD
 http://92.248.229.248:81/udp/225.0.56.77:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Кинозал (русские)",Дом кино Премиум HD
-http://46.151.151.245:10007/play/a009
+http://92.248.229.248:81/udp/225.0.56.79:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Кинозал (русские)",Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Кинозал (русские)",НТВ Сериал HD
@@ -267,7 +279,7 @@ http://92.248.229.248:81/udp/225.0.56.47:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/53.png" group-title="Кинозал (русские)",Русский иллюзион
 http://92.248.229.248:81/udp/225.0.55.185:1234
 #EXTINF:-1 group-title="Кинозал (русские)",Русский бестселлер
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
+http://92.248.229.248:81/udp/225.0.55.180:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Кинозал (русские)",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Кинозал (русские)",Феникс плюс Кино
@@ -314,7 +326,7 @@ http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://45.159.74.13:80/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательные",Viju History HD
-http://92.248.229.248:81/udp/225.0.56.100:1234
+http://92.248.229.248:81/udp/225.0.56.27:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательные",Viju Nature HD
 http://92.248.229.248:81/udp/225.0.55.57:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательные",RTG HD
@@ -335,8 +347,8 @@ http://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 http://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический HD (auto)
 http://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов Int HD (auto)
-http://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов HD
+http://92.248.229.248:81/udp/225.0.56.31:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ocean TV (auto)
 http://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь (auto)
@@ -344,25 +356,23 @@ http://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мужской (auto)
 http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Оружие (auto)
-http://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+http://92.248.229.248:81/udp/225.0.55.106:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Еда ПРЕМИУМ HD (auto)
 http://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD (auto)
-http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/521.png" group-title="Хобби и увлечения",Viju Explore HD
 http://92.248.229.248:81/udp/225.0.55.47:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24
 http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения", Авто Плюс
-https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+http://92.248.229.248:81/udp/225.0.55.30:1234
 #EXTINF:-1 tvg-logo="" group-title="Хобби и увлечения",Бобер
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения",Домашние Животные
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="Хобби и увлечения",Дикая Охота HD
-http://81.177.136.209:8007/playlist.m3u8
+http://92.248.229.248:81/udp/225.0.56.29:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Хобби и увлечения",Дикая Рыбалка HD
-http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
+http://92.248.229.248:81/udp/225.0.56.96:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Хобби и увлечения",ЖИВИ!
 http://dmi3y-tv.ru/hls/CH_ZHIVI.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный
@@ -371,10 +381,8 @@ http://45.144.31.195:8024/playlist.m3u8
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Хобби и увлечения",Наша Тема
 http://live-1.otcnet.ru/nashatema1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Хобби и увлечения",Охота и Рыбалка
-http://46.174.83.66/Ohota_i_rybalka/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Хобби и увлечения",Приключения HD
-https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
+http://92.248.229.248:81/udp/225.0.56.28:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Хобби и увлечения",Точка Отрыва
 http://185.52.77.43:8080/TochkaOtriva/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/434.png" group-title="Хобби и увлечения",Усадьба

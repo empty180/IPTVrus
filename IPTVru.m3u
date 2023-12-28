@@ -401,6 +401,8 @@ http://92.248.229.248:81/udp/225.0.56.71:1234
 http://92.248.229.248:81/udp/225.0.56.29:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Хобби и увлечения",Дикая Рыбалка HD
 http://92.248.229.248:81/udp/225.0.56.96:1234
+#EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD
+http://92.248.229.248:81/udp/225.0.56.21:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Хобби и увлечения",ЖИВИ!
 http://dmi3y-tv.ru/hls/CH_ZHIVI.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный

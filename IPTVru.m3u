@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://epg.it999.ru/ru2.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://epg.it999.ru/ru2.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz, http://www.teleguide.info/download/new3/jtv.zip"
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/8bef79623c7385582550aaf0cde8e48a.png" group-title="Общественные", Первый канал +2

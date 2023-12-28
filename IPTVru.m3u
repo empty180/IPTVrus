@@ -334,8 +334,17 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 
-#EXTINF:-1 group-title="Познавательное",National Geographic
-http://45.159.74.13:80/NationalGeographic/index.m3u8
+
+#EXTINF:-1 group-title="Познавательное",National Geographic HD
+http://dmi3y-tv.ru/hls/CH_NATGEOHD.m3u8
+#EXTINF:-1 group-title="Познавательное",National Geographic Wild HD
+http://dmi3y-tv.ru/hls/CH_NATGEO_WILDHD.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERY_CHANNELHD.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Science HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERY_SCIENCEHD.m3u8
+#EXTINF:-1 group-title="Познавательное",Animal Planet HD
+http://dmi3y-tv.ru/hls/CH_ANIMAL_PLANETHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
 http://92.248.229.248:81/udp/225.0.56.27:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательное",Viju Nature HD
@@ -382,6 +391,8 @@ http://92.248.229.248:81/udp/225.0.55.30:1234
 http://92.248.229.248:81/udp/225.0.55.134:1234
 #EXTINF:-1 tvg-logo="" group-title="Хобби и увлечения",Бобер
 http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",TLC
+http://dmi3y-tv.ru/hls/CH_TLC.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения",Домашние Животные
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Лапки Live

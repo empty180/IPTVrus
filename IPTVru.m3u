@@ -339,16 +339,16 @@ http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 
 
-#EXTINF:-1 group-title="Познавательное",National Geographic
-http://cdn.klimedia.space/lb/DE_INSIGHT_HD/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Познавательное",National Geographic
+http://158.101.214.187:8080/channel/7d63f3a3/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="Познавательное",National Geographic Wild
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-http://cdn.klimedia.space/lb/Discovery/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Science HD
 http://158.101.214.187:8080/channel/41d7042a/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
-http://cdn.klimedia.space/lb/AnimalPlane/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
+http://moobl.ru/hls/Animal_Planet_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
 http://92.248.229.248:81/udp/225.0.56.27:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательное",Viju Nature HD
@@ -392,8 +392,8 @@ http://92.248.229.248:81/udp/225.0.55.134:1234
 #EXTINF:-1 tvg-logo="" group-title="Хобби и увлечения",Бобер
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",TLC
-http://cdn.klimedia.space/lb/tlc_hd_ru/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD ENG
+http://moobl.ru/hls/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
 http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения",Домашние Животные
 http://45.144.31.195:8013/playlist.m3u8

@@ -346,7 +346,7 @@ http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
 http://cdn.klimedia.space/lb/Discovery/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
 #EXTINF:-1 group-title="Познавательное",Discovery Science HD
-http://cdn.klimedia.space/lb/Discovery_Science/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
+http://158.101.214.187:8080/channel/41d7042a/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://cdn.klimedia.space/lb/AnimalPlane/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD

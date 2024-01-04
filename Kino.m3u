@@ -67,62 +67,6 @@ http://158.101.194.132:8888/channel/n1ca51d3d/index.m3u8?q=4df2c8476b65d08b14ea2
 http://158.101.194.132:8888/channel/n16c62d34/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 #EXTINF:-1 tvg-id="premiere" tvg-name="Prokop UA" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV UA
 http://158.101.194.132:8888/channel/n51cfb04e/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvporno" tvg-name="prokoptvporno" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV XXX
-http://158.101.194.132:8888/channel/17d9b4f2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvcinemav" tvg-name="prokoptvcinemav" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Вторая Мировая
-http://158.101.194.132:8888/channel/n79efe632/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvskazkiussr" tvg-name="prokoptvskazkiussr" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Сказки СССР
-http://158.101.194.132:8888/channel/1943057b/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="hlsproxy-46" tvg-logo="http://158.101.214.187:8080/logos/c-music.png" tvg-name="Music Choise" tvg-shift="0" group-title="Каналы Prokop TV",Music Choise
-http://158.101.194.132:8888/channel/n2b3a598b/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="Prokop_Detektiv" tvg-name="Prokop_Detektiv" tvg-shift="0" group-title="Каналы Prokop TV",PROKOP DETEKTIV
-http://158.101.194.132:8888/channel/n498555a0/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="kungfu" tvg-name="kungfu" tvg-shift="0" group-title="Каналы Prokop TV",PROKOP KUNG FU
-http://158.101.194.132:8888/channel/n6cd831ec/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="masyana" tvg-name="masyana" tvg-shift="0" group-title="Каналы Prokop TV",PROKOPTV МАСЯНЯ
-http://158.101.194.132:8888/channel/2803656a/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="cinema4k" tvg-name="cinema4k" tvg-shift="0" group-title="Каналы Prokop TV",Prokop 4K
-http://158.101.194.132:8888/channel/51ecbccf/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="Prokop_mylt_ua" tvg-name="Prokop_mylt_ua" tvg-shift="0" group-title="Каналы Prokop TV",Prokop Mylt UA
-http://158.101.194.132:8888/channel/n4efa3560/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="Newfilms" tvg-name="Newfilms" tvg-shift="0" group-title="Каналы Prokop TV",Prokop Newfilm
-http://158.101.194.132:8888/channel/n3b9f2c34/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="ProkopSport" tvg-name="ProkopSport" tvg-shift="0" group-title="Каналы Prokop TV",Prokop Sport Online
-http://158.101.194.132:8888/channel/n2b200309/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvcinemaqhd" tvg-name="60 fps" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Cinema 60 fps
-http://158.101.194.132:8888/channel/23dfd8c/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvbest" tvg-name="prokoptvbest" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Cinema Best
-http://158.101.194.132:8888/channel/5edc834d/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvcomedy" tvg-name="prokoptvcomedy" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Comedy
-http://158.101.194.132:8888/channel/5d4138df/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvcriminalhd" tvg-name="prokoptvcriminalhd" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Criminal
-http://158.101.194.132:8888/channel/n55d74ed7/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvdocuhd" tvg-name="prokoptvdocuhd" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Docu
-http://158.101.194.132:8888/channel/n1cabd5fd/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvfantazy" tvg-name="prokoptvfantazy" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Fantazy
-http://158.101.194.132:8888/channel/n2e366587/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvhistory" tvg-name="prokoptvhistory" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV History
-http://158.101.194.132:8888/channel/49837f0e/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvhorror" tvg-name="prokoptvhorror" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Horror
-http://158.101.194.132:8888/channel/65cbebf0/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvkids" tvg-name="prokoptvkids" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Kids
-http://158.101.194.132:8888/channel/n1ca8bdcd/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvmusic" tvg-name="prokoptvmusic" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Music
-http://158.101.194.132:8888/channel/n784d20e1/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvnetflixserial" tvg-name="prokoptvnetflixserial" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Netflix
-http://158.101.194.132:8888/channel/n7fe2d1f4/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvrock" tvg-name="prokoptvrock" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Rock
-http://158.101.194.132:8888/channel/n1ca578d5/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvserialhd" tvg-name="prokoptvserialhd" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Serial
-http://158.101.194.132:8888/channel/78042c3a/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="Show" tvg-name="Show" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Show
-http://158.101.194.132:8888/channel/n1ca51d3d/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvSimpsonsUa" tvg-name="prokoptvSimpsonsUa" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Simpsons UA
-http://158.101.194.132:8888/channel/n16c62d34/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="premiere" tvg-name="Prokop UA" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV UA
-http://158.101.194.132:8888/channel/n51cfb04e/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
-#EXTINF:-1 tvg-id="prokoptvporno" tvg-name="prokoptvporno" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV XXX
-http://158.101.194.132:8888/channel/17d9b4f2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 #EXTINF:-1 tvg-id="prokoptvcinemav" tvg-name="prokoptvcinemav" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Вторая Мировая
 http://158.101.194.132:8888/channel/n79efe632/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
 #EXTINF:-1 tvg-id="prokoptvskazkiussr" tvg-name="prokoptvskazkiussr" tvg-shift="0" group-title="Каналы Prokop TV",Prokop TV Сказки СССР

@@ -44,6 +44,10 @@ http://92.248.229.248:81/udp/225.0.55.23:1234
 http://92.248.229.248:81/udp/225.0.56.67:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда +2
 http://92.248.229.248:81/udp/225.0.59.17:1234
+#EXTINF:-1 group-title="Общественные",МИР +2
+http://92.248.229.248:81/udp/225.0.59.18:1234
+#EXTINF:-1 group-title="Общественные",МИР HD
+http://92.248.229.248:81/udp/225.0.56.86:1234
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
 http://92.248.229.248:81/udp/225.0.59.13:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD

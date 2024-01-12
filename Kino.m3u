@@ -193,3 +193,93 @@ http://rhsbjv7k.tvclub.xyz/iptv/Y3TKVEUWT5SGKD/15101/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/Y3TKVEUWT5SGKD/15100/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-100315" tvg-logo="http://158.101.214.187:8080/logos/cineman-uzhasy.png" tvg-name="CineMan Ужасы" tvg-shift="0" group-title="Кинозалы CineMan",CineMan Ужасы
 http://rhsbjv7k.tvclub.xyz/iptv/Y3TKVEUWT5SGKD/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 1 HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 2 HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Кинозал Premiere 3 HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Multserial HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11025/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Comedy HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11031/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Fantastic HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11032/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU FilMystic HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11033/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11035/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids+ HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11036/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Marvel HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11038/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Romantic HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11040/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Media HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11043/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Stars HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Ultra 4K
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11045/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU RuSerial HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/11048/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/17019/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Cosmo HD
+#EXTGRP:HD
+http://ctmcinbk.ottclub.xyz/iptv/MR9T62G8W3243U/17021/index.m3u8

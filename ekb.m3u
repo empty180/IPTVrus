@@ -313,7 +313,7 @@ http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA HD (auto)
 http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-http://92.248.229.248:81/udp/225.0.55.216:1234
+https://mhd158.iptv2022.com/p/JFXiC8Qd5lTBPkkFflRcBA,1705259453/streaming/bridgetv/324/5/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
 http://92.248.229.248:81/udp/225.0.55.197:1234
 #EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE HD (auto)

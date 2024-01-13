@@ -2,74 +2,74 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/8bef79623c7385582550aaf0cde8e48a.png" group-title="Общественные", Первый канал +2
-http://92.248.229.248:81/udp/225.0.59.1:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал HD
-http://92.248.229.248:81/udp/225.0.56.1:1234
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/843302fbe2168d4620436983d29a993c.png" group-title="Общественные", Россия 1 +2
-http://92.248.229.248:81/udp/225.0.59.2:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
-http://92.248.229.248:81/udp/225.0.56.2:1234
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
-http://92.248.229.248:81/udp/225.0.59.4:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
-http://92.248.229.248:81/udp/225.0.56.98:1234
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/779fe28f0ad92e67cff73abcf19f9a28.png" group-title="Общественные", Пятый канал +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/tvcentr.png" group-title="Общественные", ТВ Центр +2
-http://92.248.229.248:81/udp/225.0.59.10:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общественные" tvg-id="tvcentr", ТВ Центр
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К +2
-http://92.248.229.248:81/udp/225.0.59.6:1234
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Общественные",Россия 24
-http://92.248.229.248:81/udp/225.0.59.7:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР +2
-http://92.248.229.248:81/udp/225.0.59.9:1234
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1 group-title="Общественные",ОТВ +2 HD
 http://92.248.229.248:81/udp/225.0.59.21:1234
 #EXTINF:-1 group-title="Общественные",4 Канал +2
 http://92.248.229.248:81/udp/225.0.59.22:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
-http://92.248.229.248:81/udp/225.0.55.129:1234
+http://dmi3y-tv.ru/hls/CH_VREMYA.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
-http://92.248.229.248:81/udp/225.0.59.14:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
-http://92.248.229.248:81/udp/225.0.56.42:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://92.248.229.248:81/udp/225.0.55.23:1234
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
-http://92.248.229.248:81/udp/225.0.56.67:1234
+http://dmi3y-tv.ru/hls/CH_MOSFILMHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда +2
-http://92.248.229.248:81/udp/225.0.59.17:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 group-title="Общественные",МИР +2
-http://92.248.229.248:81/udp/225.0.59.18:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF:-1 group-title="Общественные",МИР HD
-http://92.248.229.248:81/udp/225.0.56.86:1234
+http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
-http://92.248.229.248:81/udp/225.0.59.13:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
-http://92.248.229.248:81/udp/225.0.56.121:1234
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общественные",ТНТ HD
 http://bl.uma.media/live/997705/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
-http://92.248.229.248:81/udp/225.0.59.11:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
-http://92.248.229.248:81/udp/225.0.56.99:1234
+https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2
-http://92.248.229.248:81/udp/225.0.59.15:1234
+http://bl.uma.media/live/997708/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
-http://92.248.229.248:81/udp/225.0.55.123:1234
+http://dmi3y-tv.ru/hls/zabava/CH_U_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Общественные",Карусель
-http://92.248.229.248:81/udp/225.0.59.8:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Общественные",Муз ТВ
-http://92.248.229.248:81/udp/225.0.59.20:1234
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
 #EXTINF:-1 group-title="Общественные",Матч ТВ +2
 http://92.248.229.248:81/udp/225.0.59.3:1234
 #EXTINF:-1 group-title="Общественные",Матч! HD
@@ -170,19 +170,19 @@ http://92.248.229.248:81/udp/225.0.56.94:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Кинозал",312 Кино KG
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
-http://92.248.229.248:81/udp/225.0.56.7:1234
+http://176.222.190.11/btv/SWM/Red/Red.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black
-http://92.248.229.248:81/udp/225.0.55.151:1234
+http://176.222.190.11/btv/SWM/Black/Black.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
-http://92.248.229.248:81/udp/225.0.55.73:1234
+http://176.222.190.11/btv/SWM/Sci-Fi/Sci-Fi_384p_1000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1 HD
-http://92.248.229.248:81/udp/225.0.56.9:1234
+http://176.222.190.11/btv/SWM/A1/A1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Кинозал",Amedia 2 HD
-http://92.248.229.248:81/udp/225.0.55.38:1234
+http://176.222.190.11/btv/SWM/A2/A2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Кинозал",Amedia Hit HD
-http://92.248.229.248:81/udp/225.0.56.65:1234
+http://176.222.190.11/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Кинозал",Amedia Premium HD
-http://92.248.229.248:81/udp/225.0.56.10:1234
+http://176.222.190.11/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4770.png" group-title="Кинозал",BackusTV Original
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Кинозал",BackusTV Dark
@@ -193,39 +193,37 @@ http://92.248.229.248:81/udp/225.0.56.118:1234
 rtmp://93.189.60.202//1071
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7281.png" group-title="Кинозал",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="Кинозал",Техно 24
-http://cdn.klimedia.space/lb/texno24/index.m3u8?token=klimedia.space:c2xnanNnbHNmajg0OnNsZ2pzZ2xzZmo4NA==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",Viju TV1000 HD
-http://92.248.229.248:81/udp/225.0.56.78:1234
+http://176.222.190.11/btv/SWM/tv1000hd/tv1000hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",Viju TV1000 Action HD
-http://92.248.229.248:81/udp/225.0.56.76:1234
+http://176.222.190.11/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Кинозал",Viju+ Comedy HD
-http://92.248.229.248:81/udp/225.0.56.14:1234
+http://176.222.190.11/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Кинозал",Viju+ Megahit HD
 http://92.248.229.248:81/udp/225.0.56.3:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Кинозал",Viju+ Premiere HD
-http://92.248.229.248:81/udp/225.0.56.13:1234
+http://176.222.190.11/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
 http://92.248.229.248:81/udp/225.0.56.75:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кинозал",Start Air HD
-http://92.248.229.248:81/udp/225.0.56.18:1234
+http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Кинозал",Start World HD
-http://92.248.229.248:81/udp/225.0.56.66:1234
+http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2153.png" group-title="Кинозал",Star Family HD
 http://92.248.229.248:81/udp/225.0.56.85:1234
 #EXTINF:-1 group-title="Кинозал",Star Cinema HD
 http://92.248.229.248:81/udp/225.0.56.54:1234
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hollywood-hd.png" group-title="Кинозал",HollywooD HD
-http://92.248.229.248:81/udp/225.0.56.12:1234
-#EXTINF:-1 group-title="Кинозал",Dizi Channel HD (auto)
+http://176.222.190.11/btv/SWM/Bollywood_HD/Bollywood_HD_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Кинозал",Dizi Channel HD
 http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
-#EXTINF:-1 group-title="Кинозал",КИНОМАН (auto)
+#EXTINF:-1 group-title="Кинозал",КИНОМАН
 http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1 group-title="Кинозал",TV XXI (auto)
-http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="Кинозал",TV XXI
+http://176.222.190.11/btv/SWM/tv21/tv21.m3u8
 #EXTINF:-1 group-title="Кинозал",CINEMA HD
-http://92.248.229.248:81/udp/225.0.55.115:1234
-#EXTINF:-1 group-title="Кинозал",НСТ (auto)
+http://176.222.190.11/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Кинозал",НСТ
 http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",TRASH HD
 http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6396/index.m3u8
@@ -235,9 +233,9 @@ http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 group-title="Кинозал",ФАНТАСТИКА HD
 http://dmi3y-tv.ru/hls/CH_FANTASTIKAHD720.m3u8
-#EXTINF:-1 group-title="Кинозал",Кинозал HD (СМОТРИМ)
+#EXTINF:-1 group-title="Кинозал",Кинозал HD
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="Кинозал",Мелодрамы HD (СМОТРИМ)
+#EXTINF:-1 group-title="Кинозал",Мелодрамы HD
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMYHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Кинозал",Дорама HD
 http://92.248.229.248:81/udp/225.0.56.34:1234
@@ -270,7 +268,7 @@ http://92.248.229.248:81/udp/225.0.56.6:1234
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
-http://92.248.229.248:81/udp/225.0.56.77:1234
+http://176.222.190.11/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино HD
 http://92.248.229.248:81/udp/225.0.55.69:1234
 #EXTINF:-1 group-title="Русское кино",КИНОСЕРИЯ HD
@@ -344,11 +342,11 @@ http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Познавательное",National Geographic
-http://158.101.214.187:8080/channel/7d63f3a3/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
-#EXTINF:-1 group-title="Познавательное",National Geographic Wild
-http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+http://176.222.190.11/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Познавательное",National Geographic Wild HD
+http://176.222.190.11/btv/SWM/NatGeo_Wild/NatGeo_Wild_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://176.222.190.11/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Science HD
 http://158.101.214.187:8080/channel/41d7042a/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD

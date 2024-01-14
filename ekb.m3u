@@ -2,15 +2,15 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/8bef79623c7385582550aaf0cde8e48a.png" group-title="Общественные", Первый канал +2
-http://94.241.4.209:8888/udp/225.77.225.21:5000
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/843302fbe2168d4620436983d29a993c.png" group-title="Общественные", Россия 1 +2
-http://94.241.4.209:8888/udp/225.77.225.22:5000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/779fe28f0ad92e67cff73abcf19f9a28.png" group-title="Общественные", Пятый канал +2
@@ -25,13 +25,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Общественные",Россия К +2
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1683.png" group-title="Общественные",Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1000.png" group-title="Общественные",ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="Общественные",ОТВ +2 HD
-http://92.248.229.248:81/udp/225.0.59.21:1234
-#EXTINF:-1 group-title="Общественные",4 Канал +2
-http://92.248.229.248:81/udp/225.0.59.22:1234
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общественные",ОТВ Екатеринбург HD
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общественные",4 Канал Екатеринбург
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
 http://dmi3y-tv.ru/hls/CH_VREMYA.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
@@ -49,7 +49,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF:-1 group-title="Общественные",МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общественные",ТНТ HD
@@ -172,7 +172,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
 http://176.222.190.11/btv/SWM/Red/Red.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black
-http://176.222.190.11/btv/SWM/Black/Black.m3u8
+https://stream01.vnet.am/Kinosemya/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
 http://176.222.190.11/btv/SWM/Sci-Fi/Sci-Fi_384p_1000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1 HD
@@ -308,25 +308,25 @@ http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Музыка",AIVA HD
 http://194.190.78.91:8080/aivaya/index.m3u8
-#EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD (auto)
+#EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD
 http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA HD (auto)
+#EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA HD
 http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-https://mhd158.iptv2022.com/p/JFXiC8Qd5lTBPkkFflRcBA,1705259453/streaming/bridgetv/324/5/tracks-v2a1/mono.m3u8
+https://mhd158.iptv2022.com/p/dn8RCT71TcJH7Br68ik3WQ,1705259947/streaming/bridgetv/324/5/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
 http://92.248.229.248:81/udp/225.0.55.197:1234
-#EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE HD (auto)
+#EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE HD
 http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK HD (auto)
-http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS HD (auto)
+#EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK HD
+https://mhd140.iptv2022.com/p/fh1yYKCFSP8cPQ52SnBbJA,1705260075/streaming/br_rock/324/5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS HD
 http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ HD
 http://92.248.229.248:81/udp/225.0.55.217:1234
-#EXTINF:-1 group-title="Музыка",BRIDGE TV ШЛЯГЕР (auto)
+#EXTINF:-1 group-title="Музыка",BRIDGE TV ШЛЯГЕР
 http://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV BABY TIME (auto)
+#EXTINF:-1 group-title="Музыка",BRIDGE TV BABY TIME
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыка",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8

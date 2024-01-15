@@ -12,11 +12,11 @@ https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/779fe28f0ad92e67cff73abcf19f9a28.png" group-title="Общественные", Пятый канал +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_5TV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+http://92.100.39.32:2289/play/5Kanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/tvcentr.png" group-title="Общественные", ТВ Центр +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_EKT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общественные" tvg-id="tvcentr", ТВ Центр
@@ -33,21 +33,21 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u
 #EXTINF:-1 group-title="Общественные",4 Канал Екатеринбург
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
-http://dmi3y-tv.ru/hls/CH_VREMYA.m3u8
+http://92.100.39.32:2289/play/VeremaDelako/index.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
+http://92.100.39.32:2289/play/DomKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
-http://dmi3y-tv.ru/hls/CH_MOSFILMHD.m3u8
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 group-title="Общественные",МИР +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_EKT/variant.m3u8
 #EXTINF:-1 group-title="Общественные",МИР HD
-http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
@@ -63,7 +63,7 @@ http://bl.uma.media/live/997708/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
 http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
-http://dmi3y-tv.ru/hls/zabava/CH_U_2.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Общественные",Карусель
@@ -146,7 +146,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN HD
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id511_MSKSG-PVR-1--FAN_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2181.png" group-title="Кинозал",FilmBox
-rtmp://93.189.60.202//1071
+http://moobl.ru/hls/Filmbox.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7281.png" group-title="Кинозал",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",Viju TV1000

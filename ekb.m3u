@@ -160,7 +160,7 @@ http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=9e6a518
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Кинозал",Viju+ Premiere HD
 http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=6006d6bff7ec30fca58894d255ae443916a71bd0-8974414662-1705381954-1705338754
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
-http://srv-6-streaming.iptvin.site:8080/VIPSerial_HD/video.m3u8?token=be5f83ff2f5d92789f7a7aa1cb11c10d1cf16724-8974414662-1705381954-1705338754
+http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кинозал",Start Air HD
 http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Кинозал",Start World HD

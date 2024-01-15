@@ -270,13 +270,13 @@ http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA HD
 http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-https://mhd158.iptv2022.com/p/dn8RCT71TcJH7Br68ik3WQ,1705259947/streaming/bridgetv/324/5/tracks-v3a1/mono.m3u8
+http://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
 http://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV DELUXE HD
 http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK HD
-https://mhd140.iptv2022.com/p/fh1yYKCFSP8cPQ52SnBbJA,1705260075/streaming/br_rock/324/5/tracks-v3a1/mono.m3u8
+http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV HITS HD
 http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ HD
@@ -300,12 +300,10 @@ http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",National Geographic Wild HD
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Познавательное",Discovery Science 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+#EXTINF:-1 group-title="Познавательное",Discovery Channel US
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/34411
+#EXTINF:-1 group-title="Познавательное",Discovery Science US
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/55032
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://moobl.ru/hls/Animal_Planet_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
@@ -314,16 +312,12 @@ http://92.100.39.32:2289/play/a097/index.m3u8
 http://92.100.39.32:2289/play/a098/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательное",RTG HD
 http://strm.yandex.ru/kal/rtg/rtg0.m3u8
-#EXTINF:-1 catchup="default" catchup-days="7" catchup-source="http://24htv.platform24.tv/v2/channels/273/stream?access_token=bac04db639cb05fcddb79604cc9905a47a56be74&type=http&ts=${start}" group-title="Познавательное", История
-http://95.217.196.109:8081/russia/istoriya/playlist.m3u8
 #EXTINF:-1 group-title="Познавательное",Наука 2.0 HD
 http://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательное",Galaxy TV HD
 http://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый космический HD
 http://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
-#EXTINF:-1 group-title="Познавательное",Ocean TV
-http://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 
@@ -340,8 +334,6 @@ http://109.239.208.82:80/drive/index.m3u8
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",TLC
 http://moobl.ru/hls/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
-http://streamer.enchart.one/42/64d7dbe65e57521ae6b478a3541feea3269dd666/890/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD US
 http://11.troya.one:34000/ch723/mono.m3u8?token=mari737.U6YdeK2Y6JCWMkg27vvPvaB6zeGnHUFNPdcDrWQ9trEo0y-DNqKCFKXF6JENLxel
 #EXTINF:-1 group-title="Хобби и увлечения",Лапки Live
@@ -349,4 +341,4 @@ http://92.248.229.248:81/udp/225.0.56.71:1234
 #EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Хобби и увлечения",ЖИВИ!
-http://dmi3y-tv.ru/hls/CH_ZHIVI.m3u8
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8

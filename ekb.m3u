@@ -161,22 +161,14 @@ http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=9e6a518
 http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=6006d6bff7ec30fca58894d255ae443916a71bd0-8974414662-1705381954-1705338754
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
 http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6241.png" group-title="Кинозал",Start Air HD
-http://176.222.190.11/btv/SWM/start_air_hd/start_air_hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6240.png" group-title="Кинозал",Start World HD
-http://176.222.190.11/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hollywood-hd.png" group-title="Кинозал",HollywooD HD
 http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1 group-title="Кинозал",Dizi Channel HD
-http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",КИНОМАН
 http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",TV XXI
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",CINEMA HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Кинозал",НСТ
-http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",TRASH HD
 http://srv-1-streaming.iptvin.site:8080/Trash_HD/index.m3u8?token=f4c78c643433396f77a08dcdb77cb2e1890d335c-8974414662-1705381954-1705338754
 #EXTINF:-1 group-title="Кинозал",KINO 24

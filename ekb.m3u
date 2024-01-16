@@ -39,9 +39,9 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://92.100.39.32:2289/play/DomKino/index.m3u8
+http://dmitry-tv.ddns.net/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
+http://dmitry-tv.ddns.net/hls/CH_MOSFILMHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 group-title="Общественные",МИР +2
@@ -143,8 +143,8 @@ http://92.100.39.32:2289/play/a091/index.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Кинозал",BackusTV Dark
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN HD
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id511_MSKSG-PVR-1--FAN_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN
+http://moobl.ru/hls/FAN.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2181.png" group-title="Кинозал",FilmBox
 http://moobl.ru/hls/Filmbox.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7281.png" group-title="Кинозал",Fox
@@ -154,11 +154,11 @@ http://92.100.39.32:2289/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",Viju TV1000 Action
 http://92.100.39.32:2289/play/a094/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Кинозал",Viju+ Comedy HD
-http://srv-5-streaming.iptvin.site:34768/VIP_Comedy_HD/index.m3u8?token=0bebab483b467edb308e4291ec8dad183e8a5d5c-8974414662-1705381954-1705338754
+http://moobl.ru/hls/Viju_plus_Comedy_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Кинозал",Viju+ Megahit HD
-http://srv-5-streaming.iptvin.site:34768/VIP_Megahit_HD/index.m3u8?token=9e6a51823457c673f9fd6ce49bcd1a06a7ac83ed-8974414662-1705381954-1705338754
+http://178.49.164.156:81/udp/239.1.21.39:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Кинозал",Viju+ Premiere HD
-http://srv-2-streaming.iptvin.site:8080/VIP_Premiere_HD/video.m3u8?token=6006d6bff7ec30fca58894d255ae443916a71bd0-8974414662-1705381954-1705338754
+http://moobl.ru/hls/Viju_plus_Premiere_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
 http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hollywood-hd.png" group-title="Кинозал",HollywooD HD
@@ -169,8 +169,6 @@ http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",CINEMA HD
 https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:-1 group-title="Кинозал",TRASH HD
-http://srv-1-streaming.iptvin.site:8080/Trash_HD/index.m3u8?token=f4c78c643433396f77a08dcdb77cb2e1890d335c-8974414662-1705381954-1705338754
 #EXTINF:-1 group-title="Кинозал",KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 group-title="Кинозал",FOX Life
@@ -201,8 +199,8 @@ http://92.100.39.32:2289/play/kinosvidanie/index.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кинозал", Премиальное HD 
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Кинозал", Кино ТВ HD
-https://stream-msk-03.ott.tricolor.tv:443/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
+#EXTINF:-1 group-title="Кинозал", Кино ТВ
+http://92.100.39.32:2289/play/a08t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
@@ -215,12 +213,10 @@ http://92.100.39.32:2289/play/nashnovikino/index.m3u8
 http://92.100.39.32:2289/play/kinoSeria/index.m3u8
 #EXTINF:-1 group-title="Русское кино",Родное кино
 http://92.100.39.32:2289/play/nashkino/index.m3u8
-#EXTINF:-1 group-title="Русское кино" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/29b7544aa704d0a69c0df2d205e33ac5.jpg" logo="http://epg.openboxfan.com/picon/bcu%D1%81%D1%81%D1%81%D1%80hd.png" channelId="-1" tvg-id="845" shift="3" tvg-country="1",BCU СССР HD
-http://srv-4-streaming.iptvin.site:8080/bcusssr/index.m3u8?token=0fecfc0b6276e911dfcd96dc50e0ead808080905-8974414662-1705381954-1705338754
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Русское кино",Дом кино Премиум HD
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
+http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русское кино",Кино 1 International
-http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Русское кино",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Русское кино",НТВ Сериал HD
@@ -230,7 +226,7 @@ http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="Русское кино",НТВ СТИЛЬ HD
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="Русское кино",НТВ ПРАВО
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="Русское кино",Кинозал HD
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="Русское кино",Мелодрамы HD
@@ -240,7 +236,7 @@ http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Русское кино",Русский детектив
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Русское кино",Русский роман
-https://stream-msk-05.ott.tricolor.tv:443/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwNTM5MDAxNywiaHdpZCI6IjY1Njc3OWEzYTk2ZGExZDIzMTExYmY4MzU4OTdiZjU5YzUwY2VmNzEzZDZhNTI1MDE2NDMyZGY1MGVmMTQxMWIiLCJsYXN0X3JlcV9kYXRlIjoxNzA0Nzg1MjE3LCJzZXNzaW9uX2lkIjoiZDczNDA2YTk2ZTY2NjJlODA1ZmUyZDhkNjk0ZDEzNDEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.lBhrBmJ0gxjP88n_7dIo-UYVGldM2TPXTxbnAvZHPik
+http://185.134.39.2:4022/udp/234.0.0.224:2000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/53.png" group-title="Русское кино",Русский иллюзион
 http://92.100.39.32:2289/play/a08y/index.m3u8
 #EXTINF:-1 group-title="Русское кино",Русский бестселлер
@@ -249,10 +245,8 @@ http://91.142.158.107:8092/play/26/index.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Русское кино",Арсенал
 http://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
-#EXTINF:-1 group-title="Русское кино",Оружие
-http://srv-5-streaming.iptvin.site:34768/oruzhie/video.m3u8?token=bcbf06180569671d757d071714cab146c56d41cb-8974414662-1705381954-1705338754
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Русское кино",Феникс плюс Кино
-http://srv-2-streaming.iptvin.site:8080/feniks/index.m3u8?token=fe9c9399b62c2ce693559c673848b06baadd79fe-8974414662-1705381954-1705338754
+http://moobl.ru/hls/Feniks_plus_kino.m3u8
 
 
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
@@ -312,6 +306,8 @@ http://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
 http://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательное",Оружие
+http://178.49.164.156:81/udp/239.1.2.7:1234
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/521.png" group-title="Хобби и увлечения",Viju Explore HD

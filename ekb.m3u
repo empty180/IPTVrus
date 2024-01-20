@@ -170,7 +170,7 @@ http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 group-title="Кинозал",FOX Life
 http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 group-title="Кинозал",ФАНТАСТИКА HD
-http://dmi3y-tv.ru/hls/CH_FANTASTIKAHD720.m3u8
+http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Кинозал",Дорама HD
 http://109.197.192.121:8080/dorama/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2403.png" group-title="Кинозал",Иллюзион+

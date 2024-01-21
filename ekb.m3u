@@ -39,7 +39,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://178.163.42.49:81/udp/234.0.0.219:2000
+http://91.207.115.228:5000/c30
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwNTk5NjMxMCwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzA1MzkxNTEwLCJzZXNzaW9uX2lkIjoiODBhOTY1NjJmMGNkYzk3ZDQ2ZDRjNWIxZGI3OWY5NmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.pQUNI8AeiHeE2CAnBFUbF4NAkS7YU5CzrPVGW7fgJIM
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда

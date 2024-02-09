@@ -8,7 +8,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/843302fbe2168d4620436983d29a993c.png" group-title="Общественные", Россия 1 +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/tracks-v5a1/mono.m3u8
+http://dmi3y-tv.ru/hls/vitrina/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
@@ -16,7 +16,7 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/779fe28f0ad92e67cff73abcf19f9a28.png" group-title="Общественные", Пятый канал +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_5TV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал
-http://92.100.39.32:2289/play/5Kanal/index.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/tvcentr.png" group-title="Общественные", ТВ Центр +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_EKT/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общественные" tvg-id="tvcentr", ТВ Центр
@@ -37,15 +37,15 @@ http://91.207.115.228:5000/c53
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
-https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
+http://dmi3y-tv.ru/hls/vitrina/CH_DOMASHNIYHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция HD
-http://135.181.115.81/russia/mosfilm/playlist.m3u8
+http://217.25.80.15/mosfilm_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/zvezda/tracks-v5a1/mono.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:-1 group-title="Общественные",МИР +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_EKT/variant.m3u8
 #EXTINF:-1 group-title="Общественные",МИР HD
@@ -53,13 +53,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.m3u8
+http://dmi3y-tv.ru/hls/vitrina/CH_STSHD.m3u8
 #EXTINF:-1 group-title="Общественные",ТНТ HD
 http://bl.uma.media/live/997705/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
-https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/ren-tv/tracks-v5a1/mono.m3u8
+http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2
 http://bl.uma.media/live/997708/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3

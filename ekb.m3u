@@ -94,8 +94,8 @@ http://37.205.83.56:81/udp/239.54.5.97:1224
 http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия HD
 http://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/03/fa97ba4e4069216fca0ea42904205d12.png" group-title="Детские",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Детские",Советские мультфильмы
+https://mhd116.iptv2022.com/p/X4Chlsaw9AQDKRIlQHdu1g,1709413209/streaming/rusmult/324/1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4458.png" group-title="Новостные",360 Новости HD
@@ -126,11 +126,11 @@ http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Кинозал",312 Кино KG
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
-http://91.207.115.228:5000/c78
+http://176.113.48.221:8986/111
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black
 https://stream01.vnet.am/Kinosemya/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
-http://91.207.115.228:5000/c77
+http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Кинозал",Amedia 2
@@ -144,21 +144,21 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4662.png" group-title="Кинозал",BackusTV Dark
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN
-http://212.22.76.51:83/FAN/tracks-v1a1/mono.m3u8
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/734/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7281.png" group-title="Кинозал",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",Viju TV1000
-http://91.207.115.228:5000/c48
+http://94.232.104.237:8000/play/039/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",Viju TV1000 Action
-http://91.207.115.228:5000/c49
+http://94.232.104.237:8000/play/040/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Кинозал",Viju+ Comedy HD
-http://91.207.115.228:5000/c143
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/200/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Кинозал",Viju+ Megahit HD
-http://91.207.115.228:5000/c144
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/201/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Кинозал",Viju+ Premiere HD
-http://91.207.115.228:5000/c145
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/202/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
-http://185.32.44.154/ViasatSportHD/index.m3u8
+http://176.113.48.221:8986/68
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hollywood-hd.png" group-title="Кинозал",HollywooD HD
 http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="Кинозал",КИНОМАН
@@ -176,25 +176,25 @@ http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Кинозал",Дорама HD
 http://109.197.192.121:8080/dorama/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2403.png" group-title="Кинозал",Иллюзион+
-http://91.207.115.228:5000/c170
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2038/index.m3u
 #EXTINF:-1 tvg-logo="" group-title="Кинозал",Кинеко
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2834.png" group-title="Кинозал",Кинопоказ
-http://178.163.17.58:4022/udp/234.0.0.209:2000
+http://94.232.104.237:8000/play/047/index.m3u8
 #EXTINF:-1 group-title="Кинозал",Кинохит
-http://91.207.115.228:5000/c38
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/516/index.m3u
 #EXTINF:-1 group-title="Кинозал",Киномикс
-http://91.207.115.228:5000/c44
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/509/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Кинозал",Кинопремьера
-http://91.207.115.228:5000/c42
+https://mhd116.iptv2022.com/p/OnvIhn_UNF_p1nYzlAdZDg,1709413207/streaming/film-premiere/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Кинозал",Киносемья
-http://91.207.115.228:5000/c39
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/125/index.m3u
 #EXTINF:-1 group-title="Кинозал",Мужское кино
-http://91.207.115.228:5000/c40
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/164/index.m3u
 #EXTINF:-1 tvg-logo="https://picon.ml/kinokomedia.png" group-title="Кинозал",Кинокомедия
-http://91.207.115.228:5000/c46
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2132/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кинозал",Киносвидание
-http://91.207.115.228:5000/c44
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/728/index.m3u
 #EXTINF:-1 tvg-logo="https://picon.ml/russkaya-komedia.png" group-title="Кинозал",Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="Кинозал", Премиальное HD 
@@ -204,7 +204,7 @@ http://91.142.158.107:8092/play/28/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
-http://91.207.115.228:5000/c37
+http://94.232.104.237:8000/play/041/index.m3u8
 #EXTINF:-1 group-title="Русское кино",Viju TV1000 Новелла HD
 http://95.182.121.79/Novella_HD/index.m3u8
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино HD
@@ -219,6 +219,8 @@ http://217.25.80.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18112023/logos/44535-6558199720e59.png" group-title="Русское кино",Сделано в СССР
 https://online.vse-tv.net/ussr_onl/index.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русское кино",Советское кино
+https://mhd116.iptv2022.com/p/HSbYMsGd7S4u2Wg4uYZ5Xw,1709413208/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Русское кино",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Русское кино",НТВ Сериал HD
@@ -250,7 +252,7 @@ https://mhd116.iptv2022.com/p/aWsE0mQfpeg5d272YX_ZuA,1707512409/streaming/fenixk
 
 
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+https://mhd116.iptv2022.com/p/3BzNA05RhZRwYljZtraFpQ,1709413215/streaming/shanson/324/1/index.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD
 http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA HD
@@ -291,15 +293,15 @@ http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",National Geographic Wild HD
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
-http://91.207.115.228:5000/c146
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/140/index.m3u
 #EXTINF:-1 group-title="Познавательное",Discovery Science HD
-http://5ud2pclj.rostelekom.xyz/iptv/F8PV4YNQH39E7W/9326/index.m3u8
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/136/index.m3u
 #EXTINF:-1 group-title="Познавательное",Animal Planet HD
 http://185.32.44.154/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
-http://91.207.115.228:5000/c96
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/162/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательное",Viju Nature HD
-http://91.207.115.228:5000/c97
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/163/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательное",RTG HD
 http://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательное",Наука 2.0 HD
@@ -319,7 +321,7 @@ http://91.207.115.228:5000/c95
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения", Авто Плюс
-http://91.207.115.228:5000/c110
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/151/index.m3u
 #EXTINF:-1 group-title="Хобби и увлечения",Драйв
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Бобер

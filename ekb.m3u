@@ -219,8 +219,6 @@ http://217.25.80.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18112023/logos/44535-6558199720e59.png" group-title="Русское кино",Сделано в СССР
 https://online.vse-tv.net/ussr_onl/index.mpd
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русское кино",Советское кино
-https://mhd116.iptv2022.com/p/HSbYMsGd7S4u2Wg4uYZ5Xw,1709413208/streaming/sovietmovs/324/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Русское кино",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1754.png" group-title="Русское кино",НТВ Сериал HD

@@ -61,9 +61,9 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2
-http://bl.uma.media/live/997708/HLS/4614144_3/2/1/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
-http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
@@ -118,7 +118,7 @@ http://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="Развлекательные",Че!
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
 
@@ -214,7 +214,7 @@ http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 group-title="Русское кино",Родное кино
 http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Русское кино",Дом кино Премиум HD
-http://217.25.80.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
+http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/911/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русское кино",Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18112023/logos/44535-6558199720e59.png" group-title="Русское кино",Сделано в СССР
@@ -327,7 +327,7 @@ http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",TLC HD
 http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
-http://5ud2pclj.rostelekom.xyz/iptv/F8PV4YNQH39E7W/6391/index.m3u8
+http://cdn.klimedia.space/lb/HGTVHD/index.m3u8?token=klimedia.space:YWxrZmphMDlnOGFsZmZnYTphbGtmamEwOWc4YWxmZmdh
 #EXTINF:-1 group-title="Хобби и увлечения",Лапки Live
 
 #EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD

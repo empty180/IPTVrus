@@ -67,7 +67,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
-http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_2.m3u8
+http://91.205.199.7:8000/play/a0si
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Общественные",Карусель
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Общественные",Муз ТВ
@@ -83,19 +83,17 @@ http://185.37.150.40:8092/Boec/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",СОЛНЦЕ
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_2.m3u8
+http://94.232.104.237:8000/play/028/index.m3u8
 #EXTINF:-1 group-title="Детские",В гостях у сказки HD
 http://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
 http://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир
-http://37.205.83.56:81/udp/239.54.5.97:1224
+http://94.232.104.237:8000/play/034/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
 https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия HD
 http://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Детские",Советские мультфильмы
-https://mhd116.iptv2022.com/p/X4Chlsaw9AQDKRIlQHdu1g,1709413209/streaming/rusmult/324/1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4458.png" group-title="Новостные",360 Новости HD
@@ -203,8 +201,6 @@ http://91.142.158.107:8092/play/28/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
 http://94.232.104.237:8000/play/041/index.m3u8
-#EXTINF:-1 group-title="Русское кино",Viju TV1000 Новелла HD
-http://95.182.121.79/Novella_HD/index.m3u8
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино HD
 http://188.113.190.15/327/video.m3u8
 #EXTINF:-1 group-title="Русское кино",Киносерия
@@ -228,7 +224,7 @@ http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="Русское кино",Кинозал HD
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русское кино",Победа
-http://dmi3y-tv.ru/hls/CH_POBEDA.m3u8
+http://109.248.236.21:4433/udp/238.1.1.128:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Русское кино",Русский детектив
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Русское кино",Русский роман
@@ -320,7 +316,7 @@ http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Бобер
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",TLC HD
-http://185.32.44.154/tlc/index.m3u8
+http://45.15.43.12:80/tlc/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
 http://ch01.spr24.net/22564/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD

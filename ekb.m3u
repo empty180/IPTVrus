@@ -201,6 +201,8 @@ http://91.142.158.107:8092/play/28/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
 http://94.232.104.237:8000/play/041/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6a/Viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_%28%D1%81_2023%2C_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%29.png/revision/latest?cb=20231129175212&path-prefix=ru" group-title="Русское кино",Viju TV1000 Новелла HD
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино HD
 http://188.113.190.15/327/video.m3u8
 #EXTINF:-1 group-title="Русское кино",Киносерия

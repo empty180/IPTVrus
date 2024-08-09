@@ -306,7 +306,7 @@ http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Бобер
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
-http://195.211.27.149:8887/8355/index.m3u8?token=test
+http://ru2.troya.one:34000/ch723/mono.m3u8?token=dich1972.YDVjehKiH5CW_2322HG-S5U3pgTefy8SS4awyD_RAFpdLXG13GOJ6j2Rlps69vIW
 #EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Хобби и увлечения",ЖИВИ!

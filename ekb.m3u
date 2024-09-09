@@ -37,7 +37,7 @@ http://91.90.255.235:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Общественные",Домашний HD
-http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
+http://iptv.mega.net.ru:8888/domashniy_hd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
@@ -53,13 +53,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
-http://92.53.64.197:5050/sts_hd/video.m3u8?token=m3VIth-Rou_bM1
+http://91.224.169.250:5000/c71 
 #EXTINF:-1 group-title="Общественные",ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/h ls/CH_R02_OTT_RENTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
-http://92.53.64.197:5050/Rentv_HD/video.m3u8?token=m3VIth-Rou_bM1
+http://s83.chas.tv:8081/chas/rentv-hq.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
@@ -79,11 +79,11 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MATCHTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7669.png" group-title="Детские",СОЛНЦЕ
 http://91.207.115.228:12000/play/a04l
 #EXTINF:-1 group-title="Детские",Капитан Фантастика HD
-https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир
 http://91.207.115.228:12000/play/a04k
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
-https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6870.png" group-title="Детские",Мультиландия
 http://91.207.115.228:12000/play/a01u
 
@@ -108,7 +108,7 @@ http://91.207.115.228:12000/play/a022
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+http://91.207.115.228:12000/play/a03u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="Развлекательные",Че!
 http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
 
@@ -150,7 +150,7 @@ http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
 http://176.113.48.221:8986/68
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hollywood-hd.png" group-title="Кинозал",HollywooD HD
-https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал",КИНОМАН
 http://88.218.242.237:8000/play/a002
 #EXTINF:-1 group-title="Кинозал",TV XXI
@@ -164,7 +164,7 @@ http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
 #EXTINF:-1 group-title="Кинозал",ФАНТАСТИКА HD
 http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2174.png" group-title="Кинозал",Дорама
-https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2403.png" group-title="Кинозал",Иллюзион+
 http://91.224.169.250:5000/c47
 #EXTINF:-1 tvg-logo="" group-title="Кинозал",Кинеко
@@ -181,7 +181,7 @@ https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал",Мужское кино
 http://91.224.169.250:5000/c28
-#EXTINF:-1 tvg-logo="https://picon.ml/kinokomedia.png" group-title="Кинозал",Кинокомедия
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/kinokomediya.png" group-title="Кинозал",Кинокомедия
 https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кинозал",Киносвидание
 https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
@@ -223,17 +223,17 @@ https://stream2.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://s83.chas.tv:8081/chas/shansontv.stream/playlist.m3u8
+http://iptv.mega.net.ru:8888/Sanson_TV/mono.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIA
 http://hls.seversk.ru:8080/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-http://hls.seversk.ru:8080/play/a00z/index.m3u8
+http://iptv.mega.net.ru:8888/Bridge_HD/mono.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
-http://s83.chas.tv:8081/chas/bridgeclassictv.stream/playlist.m3u8
+http://iptv.mega.net.ru:8888/Paramount_Comedy/mono.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK
 http://hls.seversk.ru:8080/play/a012/index.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS HD
-http://s83.chas.tv:8081/chas/bridgetvhitstv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE TV HITS
+http://iptv.mega.net.ru:8888/CBS_Reality/mono.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ
 http://hls.seversk.ru:8080/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Музыка",RU TV HD
@@ -250,9 +250,9 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
 http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Discovery Science
-https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Animal Planet
-https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
 https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательное",Viju Nature HD
@@ -260,11 +260,11 @@ http://sc.id-tv.kz/ViasatNature_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/648.png" group-title="Познавательное",RTG HD
 http://iptv.mega.net.ru:8888/RTG_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Наука 2.0
-https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Galaxy TV
-http://146.158.0.56:80/Galaxy/index.m3u8
+http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Первый космический HD
-https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+http://iptv.mega.net.ru:8888/Eureka_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Мужской
 http://iptv.mega.net.ru:8888/Mugskoi/mono.m3u8
 #EXTINF:-1 group-title="Познавательное",Оружие
@@ -274,11 +274,11 @@ http://91.224.169.250:5000/c80
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/521.png" group-title="Хобби и увлечения",Viju Explore HD
 https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24
-http://109.239.208.82:80/auto24/index.m3u8
+http://iptv.mega.net.ru:8888/Avto24/mono.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения", Авто Плюс
 http://91.90.255.235:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Драйв
-http://109.239.208.82:80/drive/index.m3u8
+https://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Бобер
 http://91.196.37.133:4000/play/a01z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD

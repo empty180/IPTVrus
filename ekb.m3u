@@ -55,7 +55,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
 http://91.224.169.250:5000/c71 
 #EXTINF:-1 group-title="Общественные",ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/h ls/CH_R02_OTT_RENTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD

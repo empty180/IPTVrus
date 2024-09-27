@@ -41,7 +41,7 @@ http://iptv.mega.net.ru:8888/domashniy_hd/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+http://77.235.1.13/mosfilm/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD
@@ -57,7 +57,7 @@ http://91.224.169.250:5000/c71
 #EXTINF:-1 group-title="Общественные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
-https://rt-ural-ekt-htlive.cdn.ngenix.net/h ls/CH_R02_OTT_RENTV_EKT/variant.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2

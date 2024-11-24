@@ -33,13 +33,13 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u
 #EXTINF:-1 group-title="Общественные",4 Канал Екатеринбург
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Общественные",Время
-http://77.235.1.17/vremya/index.m3u8
+http://tv.ttk.mx:9080
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://77.235.1.17/mosfilm/index.m3u8
+http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD
@@ -183,9 +183,9 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Русское кино",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русское кино",Победа
-http://77.235.1.17/pobeda/index.m3u8
+http://46.174.83.66/Pobeda/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Русское кино",Русский детектив
-http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
+http://178.57.121.38:8080/rusdet/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Русское кино",Русский роман
 http://91.224.169.250:5000/c3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/53.png" group-title="Русское кино",Русский иллюзион

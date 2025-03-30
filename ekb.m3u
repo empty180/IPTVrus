@@ -131,7 +131,7 @@ http://tv.ttk.mx:9053
 #EXTINF:-1 group-title="Кинозал",KINO 24
 
 #EXTINF:-1 group-title="Кинозал",ФАНТАСТИКА HD
-http://195.9.195.3:8080/hls/187241.m3u8
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2403.png" group-title="Кинозал",Иллюзион+
 http://tv.ttk.mx:9028
 #EXTINF:-1 tvg-logo="" group-title="Кинозал",Кинеко

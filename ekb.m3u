@@ -79,7 +79,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир
 http://tv.ttk.mx:9063
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
-
+http://tv.ttk.mx:9086
 
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные",Пятница HD
@@ -89,23 +89,23 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Кинозал",312 Кино KG
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
-http://91.205.199.3/red/index.m3u8
+http://arbiter.bolshoe.tv/?path=streaming/set/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black
-http://109.200.130.123:7537/play/a02s
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM5MjI4MTgsImlhdCI6MTc0MzgzNjQxOCwiY2lkIjo2LCJ1aWQiOjkwNjg2MzUzMywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.OxK3HpibyrNzJcTmmH43SPR47ahifkc6CO7UAfh6lKY&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
-http://91.194.191.241:8081/chid77/tracks-v1a1/mono.m3u8
+http://arbiter.bolshoe.tv/?path=streaming/axnscifi/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1
 http://tv.ttk.mx:9155
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Кинозал",Amedia 2
 http://tv.ttk.mx:9156
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Кинозал",Amedia Hit
-http://77.239.125.42:8070/@Dimonovich1982_amediahithd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Кинозал",Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN
@@ -115,13 +115,13 @@ http://tv.ttk.mx:9181
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",Viju TV1000 Action
 http://tv.ttk.mx:9182
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Кинозал",Viju+ Comedy HD
-
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1012.png" group-title="Кинозал",Viju+ Megahit HD
-
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1013.png" group-title="Кинозал",Viju+ Premiere HD
-
+http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2838.png" group-title="Кинозал",Viju+ Serial HD
-
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM5MjI4MTgsImlhdCI6MTc0MzgzNjQxOCwiY2lkIjo2LCJ1aWQiOjkwNjg2MzUzMywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.OxK3HpibyrNzJcTmmH43SPR47ahifkc6CO7UAfh6lKY&offset=10
 #EXTINF:-1 group-title="Кинозал",КИНОМАН
 http://88.218.242.237:8000/play/a002
 #EXTINF:-1 group-title="Кинозал",TV XXI
@@ -141,7 +141,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="Кинозал",Кинохит
 http://tv.ttk.mx:9163
 #EXTINF:-1 group-title="Кинозал",Киномикс
-
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM5MjI4MTgsImlhdCI6MTc0MzgzNjQxOCwiY2lkIjo2LCJ1aWQiOjkwNjg2MzUzMywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.OxK3HpibyrNzJcTmmH43SPR47ahifkc6CO7UAfh6lKY&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Кинозал",Кинопремьера
 http://tv.ttk.mx:9162
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Кинозал",Киносемья
@@ -149,7 +149,7 @@ http://tv.ttk.mx:9161
 #EXTINF:-1 group-title="Кинозал",Мужское кино
 http://tv.ttk.mx:9165
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/kinokomediya.png" group-title="Кинозал",Кинокомедия
-
+http://arbiter.bolshoe.tv/?path=abr1/komedia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кинозал",Киносвидание
 http://tv.ttk.mx:9164
 #EXTINF:-1 tvg-logo="https://picon.ml/russkaya-komedia.png" group-title="Кинозал",Комедия
@@ -169,13 +169,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
 http://tv.ttk.mx:9183
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино
-https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Русское кино",Любимое HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
 #EXTINF:-1 group-title="Русское кино",Киносерия
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM5MjI4MTgsImlhdCI6MTc0MzgzNjQxOCwiY2lkIjo2LCJ1aWQiOjkwNjg2MzUzMywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.OxK3HpibyrNzJcTmmH43SPR47ahifkc6CO7UAfh6lKY&offset=10
 #EXTINF:-1 group-title="Русское кино",Родное кино
-https://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2020.png" group-title="Русское кино",Дом кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Русское кино",Кино 1 International
@@ -222,13 +222,13 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_Russkiy_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Познавательное",National Geographic
 
 #EXTINF:-1 group-title="Познавательное",National Geographic Wild HD
-
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=cd56Q-33Q9pLwVMlkYzmaQ&e=1743922669&scheme=https
 #EXTINF:-1 group-title="Познавательное",Discovery Channel HD
 https://tv.movielab.pro/147/video.m3u8?token=e16d352571b5643c7c31d48e778665bd96f9b51c-4b382e472d92692a0aa30e631da9ea2e-1743407103-1743320703
 #EXTINF:-1 group-title="Познавательное",Discovery Science
 
 #EXTINF:-1 group-title="Познавательное",Animal Planet
-
+https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=SsjaaBqpnb0hJRJeFEkhUg&e=1743922670&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4826.png" group-title="Познавательное",Viju History HD
 http://tv.ttk.mx:9184
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/765.png" group-title="Познавательное",Viju Nature HD
@@ -248,7 +248,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24
 http://tv.ttk.mx:9031
 #EXTINF:-1 group-title="Хобби и увлечения", Авто Плюс
-
+http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="Хобби и увлечения",Драйв
 http://tv.ttk.mx:9039
 #EXTINF:-1 group-title="Хобби и увлечения",Лапки Live

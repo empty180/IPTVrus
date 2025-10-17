@@ -101,13 +101,13 @@ http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/516.png" group-title="Кинозал",.Sci-Fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1371.png" group-title="Кинозал",Amedia 1
-http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
+http://192.162.64.99:5100/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2492.png" group-title="Кинозал",Amedia 2
-http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
+http://192.162.64.99:5100/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2007.png" group-title="Кинозал",Amedia Hit
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1372.png" group-title="Кинозал",Amedia Premium
-http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
+http://217.21.34.160:38007/amediapremium/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2359.png" group-title="Кинозал",FAN HD
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",Viju TV1000
@@ -197,13 +197,13 @@ http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlOcAq-6fDwxzS8gzJQ7TOMNVoeunvCR5A7TSzzyQYAKiz3DrvkB9WMul0IO4wMy-2Fl9Wkosll8jogJh5C05VN&token=MjIyMjoyMjIyMjI=
+http://46.8.46.14/bridge/index.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnecugN-JUJwyYkU-m3S68TzuFRsXCfyY1DQ3jQc_CnIHGTkJyMCOUYsW7zOl_UwUSgN3cU6N-lRWoGub1HKbyc&token=MjIyMjoyMjIyMjI=
+http://178.212.71.253:8000/play/135/index.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnVBZjvV94pnvQd0kOy4QfUGRVbj_8XOcR-2kAXG9tbReUYx_HleepRh6TkmvxjPxVgkABLmEkzgkegwoiwlGKu&token=MjIyMjoyMjIyMjI=
+http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV HITS
-http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmI26YDzy3y7LORVY3mhx5IeVeCspPexSZgT_T2H_2COToBIm-S4_bKpr-MmB7NFBnIilEx-6WhuWdw6qGSYm-L&token=MjIyMjoyMjIyMjI=
+http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZn8iDnUIaFv2T0YWAxtB6cVqx9QtpYgTnSpeASqpTzrUsWfdCvxHOLx7h5yNaRg5PnfkMH8Hs9uKasoIK7tPYa2&token=MjIyMjoyMjIyMjI=
 

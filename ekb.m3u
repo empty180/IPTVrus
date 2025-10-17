@@ -37,9 +37,9 @@ http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://arbiter.bolshoe.tv/?path=abr1/domkino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD
@@ -65,7 +65,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
-http://arbiter.bolshoe.tv/?path=abr2/super_sd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/740.png" group-title="Общественные",Карусель
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Общественные",Муз ТВ
@@ -79,13 +79,13 @@ http://95.181.17.26/abr1/disney/71/copy/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир
 http://api.peers.tv/timeshift/detskij_mir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские",Мульт
-http://arbiter.bolshoe.tv/?path=abr2/tlum_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
 
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные",Пятница HD
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/663.png" group-title="Развлекательные",Сарафан
-http://arbiter.bolshoe.tv/?path=streaming/sarafan/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
@@ -162,7 +162,7 @@ http://192.162.64.99:5100/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Русское кино",Viju TV1000 Русское кино HD
 http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Русское кино",Наше Новое Кино
-http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Русское кино",Любимое HD
 http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Русское кино",Киносерия
@@ -175,8 +175,8 @@ http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOi
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Русское кино",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русское кино",Победа
-http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русское кино",Победа HD
+http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Русское кино",Русский детектив
 http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Русское кино",Русский роман
@@ -188,7 +188,7 @@ http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Русское кино",Телекафе
 http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Русское кино",Арсенал HD
-http://arbiter.bolshoe.tv/?path=abr2/arsenal/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+
 #EXTINF:-1 group-title="Русское кино",День Победы
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 
@@ -197,15 +197,15 @@ http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE TV
-http://arbiter.bolshoe.tv/?path=streaming/brigge/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlOcAq-6fDwxzS8gzJQ7TOMNVoeunvCR5A7TSzzyQYAKiz3DrvkB9WMul0IO4wMy-2Fl9Wkosll8jogJh5C05VN&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Музыка",BRIDGE TV CLASSIC
-http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnecugN-JUJwyYkU-m3S68TzuFRsXCfyY1DQ3jQc_CnIHGTkJyMCOUYsW7zOl_UwUSgN3cU6N-lRWoGub1HKbyc&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Музыка",BRIDGE TV ROCK
-http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnVBZjvV94pnvQd0kOy4QfUGRVbj_8XOcR-2kAXG9tbReUYx_HleepRh6TkmvxjPxVgkABLmEkzgkegwoiwlGKu&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Музыка",BRIDGE TV HITS
 http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZmI26YDzy3y7LORVY3mhx5IeVeCspPexSZgT_T2H_2COToBIm-S4_bKpr-MmB7NFBnIilEx-6WhuWdw6qGSYm-L&token=MjIyMjoyMjIyMjI=
 #EXTINF:-1 group-title="Музыка",BRIDGE TV РУССКИЙ ХИТ
-http://arbiter.bolshoe.tv/?path=abr1/rusong_tv/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZn8iDnUIaFv2T0YWAxtB6cVqx9QtpYgTnSpeASqpTzrUsWfdCvxHOLx7h5yNaRg5PnfkMH8Hs9uKasoIK7tPYa2&token=MjIyMjoyMjIyMjI=
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Познавательное",National Geographic
@@ -231,14 +231,12 @@ http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24
 http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Хобби и увлечения", Авто Плюс
-http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjUgNzowMDoxOSBBTSZoYXNoX3ZhbHVlPWVlUi9HV2k0TEVKWG9lVHg4bHZGaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Хобби и увлечения",Драйв
 http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3NzA0MzIsImlhdCI6MTc2MDY4NDAzMiwiY2lkIjo2LCJ1aWQiOjk1NDk4NTI2MywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.1lDLcimF7wPUScAeaKhu43byFEtNBB0wzcgah_Xuxho&offset=10
 #EXTINF:-1 group-title="Хобби и увлечения",Бобер
-http://arbiter.bolshoe.tv/?path=abr1/bober/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNSA2OjUzOjU0IEFNJmhhc2hfdmFsdWU9UXJVdmQxMHFuVFRsbk15L1BleEpZZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://91.194.191.241:8081/chid34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=Hc4LShU9cU2uqY7ywucW1Q&e=1760770273&scheme=https
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Хобби и увлечения",HGTV HD
-
 #EXTINF:-1 group-title="Хобби и увлечения",MyZen.tv HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8

@@ -37,9 +37,9 @@ http://213.169.39.30:5241
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://192.162.64.99:5100/play/a01y/index.m3u8
+http://217.25.80.16/Dom_kino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://192.162.64.99:5100/play/a02e/index.m3u8
+http://178.217.72.72/mosfilm/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD

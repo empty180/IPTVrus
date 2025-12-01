@@ -37,9 +37,9 @@ http://213.169.39.30:5241
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" group-title="Общественные", Домашний +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Общественные",Дом Кино
-http://91.207.115.228:5000/c30
+http://195.191.208.11:8087/udp/238.9.0.42:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Общественные",Мосфильм. Золотая коллекция
-http://91.207.115.228:5000/c29
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда HD
@@ -190,7 +190,7 @@ http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Русское кино",Арсенал HD
 
 #EXTINF:-1 group-title="Русское кино",День Победы
-http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
+http://185.78.112.57:8077/Den_Pobedy_HD/index.m3u8
 
 
 

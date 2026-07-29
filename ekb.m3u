@@ -43,25 +43,25 @@ http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Общественные",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+http://dmi3y-tv.online/hls/T2/CH_ZVEZDAHD.m3u8
 #EXTINF:-1 group-title="Общественные",МИР +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_EKT/variant.m3u8
 #EXTINF:-1 group-title="Общественные",МИР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+http://dmi3y-tv.online/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png" group-title="Общественные", СТС +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Общественные",СТС HD
-http://87.246.54.249:8085/CTC/index.m3u8
+
 #EXTINF:-1 group-title="Общественные",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_EKT/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ HD
-http://178.217.72.72/REN_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Общественные",РЕН ТВ
+http://dmi3y-tv.online/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные", ТВ3 +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png" group-title="Общественные",ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2678.png" group-title="Общественные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Общественные",Суббота
@@ -96,8 +96,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 http://dmi3y-tv.online/hls/zabava/CH_TNT4_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6654.png" group-title="Кинозал",312 Кино KG
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/311.png" group-title="Кинозал",.Red
 http://dmi3y-tv.online/hls/CH_TOCHKA_RED.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/935.png" group-title="Кинозал",.Black

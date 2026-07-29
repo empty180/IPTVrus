@@ -86,12 +86,12 @@ http://dmi3y-tv.online/hls/CH_NICKELODEONHD.m3u8
 http://dmi3y-tv.online/hls/CH_NICKTOONS.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные",Пятница HD
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2830.png" group-title="Развлекательные",Пятница
+http://dmi3y-tv.online/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/663.png" group-title="Развлекательные",Сарафан
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС Love
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
+http://dmi3y-tv.online/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Развлекательные",ТНТ4
 http://dmi3y-tv.online/hls/zabava/CH_TNT4_2.m3u8
 

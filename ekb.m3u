@@ -133,7 +133,7 @@ http://dmi3y-tv.online/hls/CH_VIP_SERIAL.m3u8
 #EXTINF:-1 group-title="Кинозал",КИНОМАН
 
 #EXTINF:-1 group-title="Кинозал",TV XXI
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+http://dmi3y-tv.online/hls/CH_TVXXI.m3u8
 #EXTINF:-1 group-title="Кинозал",CINEMA
 
 #EXTINF:-1 group-title="Кинозал",KINO 24

@@ -4,11 +4,12 @@
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/8bef79623c7385582550aaf0cde8e48a.png" group-title="Общественные", Первый канал +2
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://edge04.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/843302fbe2168d4620436983d29a993c.png" group-title="Общественные", Россия 1 +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" group-title="Общественные", НТВ +2
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
